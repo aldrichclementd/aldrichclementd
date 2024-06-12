@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aldrich-consulting.web.app/)
 <h1 align="center">Hi 👋, I'm Aldrich Clément D.</h1>
-<h3 align="center">Hello 👋! I'm Aldrich Clement D. and I'm a fullstack developer specializing in mobile and web development with Angular, Ionic and Java. In addition to these languages, I'm also proficient in other programming languages that you can find on my profile and that I work with on a daily basis.</h3>
+<h3 align="center">Hello 👋! I'm Aldrich Clement D. and I'm a fullstack developer specializing in mobile and web development with Angular, Ionic and Django (Python) </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichclementd&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichclementd" /> </p>
