@@ -9,7 +9,6 @@
 
 - 📝 I regularly write articles on [https://aldrich-consulting.web.app/blog](https://aldrich-consulting.web.app/blog)
 
-- 📫 How to reach me **lawsonaldrich99@gmail.com**
 
 - 📄 Know about my experiences [https://aldrich-consulting.web.app/portfolios](https://aldrich-consulting.web.app/portfolios)
 
